@@ -1,2 +1,2 @@
-def makename (first, last):
+def fullname (first, last):
   return first + " " + last
